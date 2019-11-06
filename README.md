@@ -1,15 +1,18 @@
 <!doctype html>
+
 <html> 
 <head>
-<title>十大美食</title>
-<style> 
-h1  { color: red; }
-img { margin:0pt 0pt 0pt 20pt; }
-body{
-	background-image: url('03.jpg');
-	}
-</style>
+	
+	<title>十大美食</title>
+	<style> 
+	h1  { color: red; }
+	img { margin:0pt 0pt 0pt 20pt; }
+	body{
+		background-image: url('03.jpg');
+		}
+	</style>
 </head>
+
 <body>
 <h1>
 <marquee>高雄十大美食</marquee>
