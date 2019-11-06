@@ -1,4 +1,4 @@
-<body　background="03.jpg">
+<body>
 <h1>
 <marquee>高雄十大美食</marquee>
 </h1>
